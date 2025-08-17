@@ -1,6 +1,6 @@
 # <h1 align="center" id="title">AI Resume Builder</h1>
 
-<p id="description" align="center">
+<p align="center">
 AI Resume Builder is a smart web app that helps users create professional resumes in minutes. Just fill in your details and the app will generate a polished, job-ready resume that you can preview and download.
 </p>
 
@@ -13,58 +13,54 @@ AI Resume Builder is a smart web app that helps users create professional resume
 
 ---
 
-## 🖼️ Project Screenshots
+<details>
+<summary>🖼️ Project Screenshots</summary>
 
-![Screenshot 1](https://drive.google.com/uc?export=view&id=1GFZEooe6pGsj-2F7NtpIuW-rnIkjIUDl)
+![Screenshot 1](images/screenshot(96).png)
 
-![Screenshot 2](https://drive.google.com/uc?export=view&id=13U-PC94ELJomp58IMpWn98t0YEiM2PVA)
+![Screenshot 2](images/screenshot(97).png)
 
-![Screenshot 3](https://drive.google.com/uc?export=view&id=1iZvM0u2JWBJnunBPhFDHDUEtFKEGpT_1)
+![Screenshot 3](images/screenshot(98).png)
 
----
+![Screenshot 3](images/screenshot(99).png)
 
-## 🧐 Features
+![Screenshot 3](images/screenshot(100).png)
 
-Some of the project's key features:
+</details>
 
-- 🔹 Easy form to collect user details (education, experience, skills, etc.)
-- 🔹 AI-powered suggestions to improve resume content
-- 🔹 Download resumes in PDF format
-- 🔹 Generate cover letters or tailored resumes for specific jobs
+<details>
+<summary>🧐 Features</summary>
 
----
+- 🔹 Easy form to collect user details (education, experience, skills, etc.)  
+- 🔹 AI-powered suggestions to improve resume content  
+- 🔹 Download resumes in PDF format  
+- 🔹 Generate cover letters or tailored resumes for specific jobs  
 
-## 🛠️ Installation Steps
+</details>
 
+<details>
+<summary>💻 Built With</summary>
+-React.js – Frontend framework
+
+-Node.js – Backend runtime
+
+-MongoDB – Database
+
+-Google Gemini API – AI-powered suggestions
+
+</details>
+
+<summary>🛠️ Installation Steps</summary>
 1. **Clone the repository**
 
 ```bash
 git clone https://github.com/piyush-777-debug/ai-resume-builder.git
-```bash
 
-2. **Change directory**
-```bash
+2. Change directory
 cd ai-resume-builder
-```bash
 
-3. **Install Node packages**
-```bash
+3.Install Node packages
 npm install
-```bash
 
-4. **Run the development server**
-```bash
+4.Run the development server
 npm run dev
-```bash
-
-💻 Built With
-
-Technologies used in this project:
-
--React.js
-
--Node.js
-
--MongoDB
-
--Google Gemini API
