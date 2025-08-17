@@ -14,14 +14,12 @@ AI Resume Builder is a smart web app that helps users create professional resume
 ---
 
 
-🖼️ Project Screenshots
-![Screenshot 1](images/Screenshot1.png)
-![Screenshot 2](images/Screenshot2.png)
-![Screenshot 3](images/Screenshot3.png)
-![Screenshot 4](images/Screenshot4.png)
-![Screenshot 5](images/Screenshot5.png)
-
-
+<h2>🖼️ Project Screenshots:</h2>
+<img src="./frontend/images/Screenshot1.png" width="800">
+<img src="./frontend/images/Screenshot2.png" width="800">
+<img src="./frontend/images/Screenshot3.png" width="800">
+<img src="./frontend/images/Screenshot4.png" width="800">
+<img src="./frontend/images/Screenshot5.png" width="800">
 <details>
 <summary>🧐 Features</summary>
 
