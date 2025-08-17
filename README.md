@@ -1,69 +1,70 @@
-<h1 align="center" id="title">Ai Resume Builder</h1>
+# <h1 align="center" id="title">AI Resume Builder</h1>
 
-<p id="description">AI Resume Builder is a smart web app that helps users create professional resumes in minutes. Just fill in your details and the app will generate a polished job‑ready resume that you can preview and download.</p>
+<p id="description" align="center">
+AI Resume Builder is a smart web app that helps users create professional resumes in minutes. Just fill in your details and the app will generate a polished, job-ready resume that you can preview and download.
+</p>
 
-<p align="center"><img src="![React](https://img.shields.io/badge/React-20232A?logo=react&amp;logoColor=61DA" alt="shields"><img src="[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&amp;logoDB" alt="shields"><img src="[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodbnAI" alt="shields"><img src=" [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&amp;logoColor=ffffff " alt="shields"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=ffffff" alt="OpenAI">
+</p>
 
-<h2>Project Screenshots:</h2>
+---
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1GFZEooe6pGsj-2F7NtpIuW-rnIkjIUDl" alt="project-screenshot" width="1366" height="768/">
+## 🖼️ Project Screenshots
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1GFZEooe6pGsj-2F7NtpIuW-rnIkjIUDl" alt="project-screenshot" width="1366" height="78/">
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1GFZEooe6pGsj-2F7NtpIuW-rnIkjIUDl)
 
-<img src="https://drive.google.com/uc?export=view&amp;id=13U-PC94ELJomp58IMpWn98t0YEiM2PVA" alt="project-screenshot" width="1366" height="768/">
+![Screenshot 2](https://drive.google.com/uc?export=view&id=13U-PC94ELJomp58IMpWn98t0YEiM2PVA)
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1iZvM0u2JWBJnunBPhFDHDUEtFKEGpT_1" alt="project-screenshot" width="1366" height="768/">
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1iZvM0u2JWBJnunBPhFDHDUEtFKEGpT_1)
 
-  
-  
-<h2>🧐 Features</h2>
+---
 
-Here're some of the project's best features:
+## 🧐 Features
 
-*   🔹 Easy form to collect user details (education experience skills etc.)
-*   🔹 AI‑powered suggestions to improve resume content
-*   🔹 Download in PDF format
-*   🔹 Generate cover letters or tailored resumes for specific jobs
+Some of the project's key features:
 
-<h2>🛠️ Installation Steps:</h2>
+- 🔹 Easy form to collect user details (education, experience, skills, etc.)
+- 🔹 AI-powered suggestions to improve resume content
+- 🔹 Download resumes in PDF format
+- 🔹 Generate cover letters or tailored resumes for specific jobs
 
-<p>1. Clone the repository</p>
+---
 
-```
+## 🛠️ Installation Steps
+
+1. **Clone the repository**
+
+```bash
 git clone https://github.com/piyush-777-debug/ai-resume-builder.git
-```
+```bash
 
-<p>2. Change Directory</p>
-
-```
+2. **Change directory**
+```bash
 cd ai-resume-builder
-```
+```bash
 
-<p>3. React Installaion</p>
-
-```
-npm create vite@latest
-```
-
-<p>4. Node Packages</p>
-
-```
+3. **Install Node packages**
+```bash
 npm install
-```
+```bash
 
-<p>5. Run Server</p>
-
-```
+4. **Run the development server**
+```bash
 npm run dev
-```
+```bash
 
-  
-  
-<h2>💻 Built with</h2>
+💻 Built With
 
-Technologies used in the project:
+Technologies used in this project:
 
-*   React.js
-*   MongoDb
-*   Node.js
-*   Google Gemini Api
+-React.js
+
+-Node.js
+
+-MongoDB
+
+-Google Gemini API
