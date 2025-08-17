@@ -20,27 +20,24 @@ AI Resume Builder is a smart web app that helps users create professional resume
 <img src="./frontend/images/Screenshot3.png" width="800">
 <img src="./frontend/images/Screenshot4.png" width="800">
 <img src="./frontend/images/Screenshot5.png" width="800">
-<details>
-<summary>🧐 Features</summary>
+
+
+<h2>🧐 Features</h2>
 
 - 🔹 Easy form to collect user details (education, experience, skills, etc.)  
 - 🔹 AI-powered suggestions to improve resume content  
 - 🔹 Download resumes in PDF format  
 - 🔹 Generate cover letters or tailored resumes for specific jobs  
 
-</details>
 
-<details>
-<summary>💻 Built With</summary>
+
+<h2>💻 Built With</h2>
 -React.js – Frontend framework
-
 -Node.js – Backend runtime
-
 -MongoDB – Database
-
 -Google Gemini API – AI-powered suggestions
 
-</details>
+
 
 <summary>🛠️ Installation Steps</summary>
 1. **Clone the repository**
